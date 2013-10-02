@@ -5,6 +5,7 @@ ruby '2.0.0'
 gem 'rails', '3.2.14'
 gem 'turbolinks'
 gem 'active_model_serializers'
+gem 'httparty'
 
 gem 'pg'
 gem 'puma'
