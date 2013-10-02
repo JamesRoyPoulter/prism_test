@@ -6,6 +6,7 @@ gem 'rails', '3.2.14'
 gem 'turbolinks'
 gem 'active_model_serializers'
 gem 'httparty'
+gem 'duedil'
 
 gem 'pg'
 gem 'puma'
