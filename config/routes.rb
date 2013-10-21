@@ -1,4 +1,7 @@
 Prism::Application.routes.draw do
+  resources :companies
+
+
   resources :pages
 
   root to: 'pages#home'

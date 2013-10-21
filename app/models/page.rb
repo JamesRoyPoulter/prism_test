@@ -2,7 +2,7 @@ class Page < ActiveRecord::Base
   # attr_accessible :title, :body
 
 
-duedil = Duedil::Client.new(api_key: 'm75g7anxnj3fswkspssgxrg4')
+# duedil = Duedil::Client.new(api_key: 'm75g7anxnj3fswkspssgxrg4')
 
 # response = duedil.get_company('03977902')
 
